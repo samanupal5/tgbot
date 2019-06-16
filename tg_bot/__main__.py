@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് {},എന്റെ പേര് *{}* എന്നാണ്. എന്നെ എങ്ങനെ ഉപയോഗിക്കണമെന്ന് അറിയാൻ വായിക്കുക /help - .
+ഹായ് {},എന്റെ പേര് *{}* എന്നാണ്. 
 
 ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ്. എന്നെ പരിപാലിക്കുന്നത്  [ഇദ്ദേഹം](tg://user?id={}) ആണ്. \
 
@@ -29,7 +29,7 @@ PM_START_TEXT = """
 
 എന്നെ മലയാളത്തിൽ ആക്കിയത് [ഇദ്ദേഹം](https://t.me/Muraleedharan_MM) ആണ്.!
 
-ലഭ്യമായ കമാന്റുകൾക്  /help ക്ലിക്ക് ചെയ്യുക ! .
+ലഭ്യമായ കമാന്റുകൾക്  /help ക്ലിക്ക് ചെയ്യുക !
 """
 
 HELP_STRINGS = """
