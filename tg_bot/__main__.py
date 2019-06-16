@@ -19,14 +19,11 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് {}, എന്റെ പേര്   {}! എങ്ങനെ ഉപയോഗിക്കണമെന്ന് നിങ്ങൾക്ക് എന്തെങ്കിലും ചോദ്യങ്ങൾ ഉണ്ടെങ്കിൽ, വായിക്കുക /help .
+ഹായ് {}, എന്റെ പേര് {} എന്നാണ് ! എങ്ങനെ ഉപയോഗിക്കണമെന്ന് അറിയാൻ വായിക്കുക /help .
 
-[ഇദ്ദേഹം] (tg://user?id={})പരിപാലിക്കുന്ന ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് ഞാൻ  \
-[എറണാകുളം] (https://t.me/Ernakulam) ഗ്രൂപ്പ് മാനേജ് ചെയ്യാൻ വേണ്ടിയാണു എന്നെ ഉണ്ടാക്കിയത് . \
+[ഇദ്ദേഹം] (tg://user?id={}) പരിപാലിക്കുന്ന ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് ഞാൻ
 
-Feel free to submit pull requests on github, or to contact my support group, @MarieSupport, with any bugs, questions \
-or feature requests you might have :)
-I also have a news channel, @MarieNews for announcements on new features, downtime, etc.
+[എറണാകുളം] (https://t.me/Ernakulam) ഗ്രൂപ്പ് മാനേജ് ചെയ്യാൻ വേണ്ടിയാണു എന്നെ ഉണ്ടാക്കിയത് .
 
 ലഭ്യമായ കമാന്റുകൾക്  /help ക്ലിക്ക് ചെയ്യുക ! .
 
